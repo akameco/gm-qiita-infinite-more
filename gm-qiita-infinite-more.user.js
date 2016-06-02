@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        qiita-road
-// @namespace   qiita
+// @name        gm-qiita-infinite-more
+// @namespace   gm-qiita-infinite-more
 // @include     http://qiita.com/*
 // @version     1
 // @grant       none
