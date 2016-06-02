@@ -1,0 +1,30 @@
+{
+  "name": "gm-qiita-infinite-more",
+  "version": "0.0.0",
+  "description": "Qiitaのフィードにオートリロードを追加するGreaseMonkeyスクリプト",
+  "license": "MIT",
+  "repository": "akameco/gm-qiita-infinite-more",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "gm-qiita-infinite-more.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "^0.15.0"
+  },
+  "xo": {
+    "envs": [
+      "browser"
+    ]
+  }
+}
