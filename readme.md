@@ -1,5 +1,7 @@
 # gm-qiita-infinite-more
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/gm-qiita-infinite-more.svg)](https://greenkeeper.io/)
+
 > Qiitaのフィードにオートリロードを追加するGreaseMonkeyスクリプト
 
 
